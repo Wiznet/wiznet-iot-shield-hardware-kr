@@ -48,21 +48,21 @@ WIoT-Shield는 WIoT 무선 모듈의 기능 동작을 위해 Power key 세팅(HI
 
 ![][2]
 
-###2. WIoT-QC01
+### 2. WIoT-QC01
 WIoT-QC01보드는 앰투앰넷 BG96(Quectel) 모듈로 개발된 LTE Cat.M1 무선 모듈입니다.
 무선 통신 시스템과 VoLTE기능을 사용할 수 있으며 Micro-SIM과 e-SIM중 한 가지를 제공합니다.
 
 ![][9]
 ![][10]
 
-###3. WIoT-WM01
+### 3. WIoT-WM01
 WIoT-WM01보드는 우리넷의 WM-N400MSE을 사용하기 위한 인터페이스 보드로서 PCIe 인터페이스와 JTAG기능을 제공합니다.
 Nano-SIM과 e-SIM중 한 가지를 사용할 수 있습니다.
 
 ![][15]
 ![][16]
 
-###4. WIoT-AM01
+### 4. WIoT-AM01
 WIoT-AM01보드는 AMTELCOM의 AMM592을 사용하기 위한 인터페이스 보드로서 PCIe 인터페이스와 JTAG기능을 제공합니다.
 Micro-SIM과 e-SIM중 한 가지를 사용할 수 있습니다.
 
