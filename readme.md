@@ -49,7 +49,7 @@ Cat.M1 모듈 종류에 따른 WIZnet IoT Shield 하드웨어 설정 정보가 �
 
 ![][forum]
 
-**[WIZnet Developer Forum][link-wiznet-forum]**을 통해 전세계의 WIZnet 기술 전문가들에게 질문하고 의견을 전달할 수 있습니다.
+**[WIZnet Developer Forum][link-wiznet-forum]** 을 통해 전세계의 WIZnet 기술 전문가들에게 질문하고 의견을 전달할 수 있습니다.
 지금 방문하세요.
 
 ## License
