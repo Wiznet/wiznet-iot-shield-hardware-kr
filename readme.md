@@ -5,7 +5,6 @@
   * `Schematic`, `Gerber`, `BOM` 
   * `Pinout`, `Layout` 
 * WIZnet IoT Shield 하드웨어 설정 가이드
-* 하드웨어 설계 가이드
 
 
 ## WIZnet IoT Shield Hardware
@@ -21,10 +20,10 @@ WIZnet IoT Shield Hardware Materials 저장소에서는 WIZnet IoT Shield의 하
 
 ### /hardware
 WIZnet IoT Shield 및 인터페이스 보드의 `Schematic`, `Gerber`, `BOM`, `Layout`, `Pinout` 등의 하드웨어 개발 자료입니다. IoT Shield 및 각 Cat.M1 모듈 벤더 별 인터페이스 보드가 각각의 폴더로 나뉘어 있으며, 하드웨어 리비전 별로 관리됩니다.
-* WIoT-Shield01_V100: WIZnet IoT Shield 보드의 하드웨어 개발 자료
-* WIoT-QC01: 앰투앰넷 BG96(Quectel) 모듈 인터페이스 보드의 하드웨어 개발 자료
-* WIoT-WM01: 우리넷 WM-N400MSE 모듈 인터페이스 보드의 하드웨어 개발 자료
-* WIoT-AM01: AM텔레콤 AMM5918K 모듈 인터페이스 보드의 하드웨어 개발 자료
+* WIoT-Shield01_Vxxx: WIZnet IoT Shield 보드의 하드웨어 개발 자료
+* WIoT-QC01_Vxxx: 앰투앰넷 BG96(Quectel) 모듈 인터페이스 보드의 하드웨어 개발 자료
+* WIoT-WM01_Vxxx: 우리넷 WM-N400MSE 모듈 인터페이스 보드의 하드웨어 개발 자료
+* WIoT-AM01_Vxxx: AM텔레콤 AMM5918K 모듈 인터페이스 보드의 하드웨어 개발 자료
 
 ### /resources
 WIZnet IoT Shield의 활용에 필요한 각종 자료 및 프로그램, 드라이버 등이 위치합니다.
@@ -47,7 +46,7 @@ Cat.M1 모듈 종류에 따른 WIZnet IoT Shield 하드웨어 설정 정보가 �
 
 ## Support
 
-![][forum]
+[![WIZnet Developer Forum][forum]](https://forum.wiznet.io/)
 
 **[WIZnet Developer Forum][link-wiznet-forum]** 에서 전세계의 WIZnet 기술 전문가들에게 질문하고 의견을 전달할 수 있습니다.
 지금 방문하세요.
